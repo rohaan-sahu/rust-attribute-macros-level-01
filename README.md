@@ -4,7 +4,7 @@ A hands-on learning project for Rust procedural attribute macros using `syn` and
 
 ---
 ```bash
-git clone https://github.com/your-username/rust-attribute-macros
+git clone https://github.com/rohaan-sahu/rust-attribute-macros-level-01.git
 cd rust-attribute-macros-level-01
 cargo run
 ```
